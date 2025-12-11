@@ -32,6 +32,9 @@
         a:hover {
             color: #654085;
         }
+        a:link{
+            color: black;
+        }
     }
 
 #it1 {
@@ -210,4 +213,5 @@
 
 #allProjects h2 {
     font-size: 60px;
+
 }
